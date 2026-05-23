@@ -1,2 +1,2 @@
 #
-Нашли баг? Сообщите нам [t.me](https://t.me/mc_litestudio?direct)
+Нашли баг? Сообщите нам [КЛИК](https://t.me/mc_litestudio?direct)
