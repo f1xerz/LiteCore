@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "ʟɪᴛᴇᴄᴏʀᴇ",
+    "description": "ʟɪᴛᴇsᴛᴜᴅɪᴏ",
+    "uuid": "853736a9-98b0-4a68-a857-e46c7c3ff3a1",
+    "min_engine_version": [1, 21, 120],
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "type": "script",
+      "language": "javascript",
+      "entry": "scripts/index.js",
+      "uuid": "86470848-1b8c-45d8-93eb-020a92cbcfa6",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "beta"
+    }
+  ],
+  "metadata": {
+    "author": ["ʟɪᴛᴇsᴛᴜᴅɪᴏ"],
+    "url": "https://t.me/mc_litestudio"
+  }
+}
